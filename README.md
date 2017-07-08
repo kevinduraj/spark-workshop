@@ -1,18 +1,3 @@
-## Apache Spark Workshop
-
-![](http://spark.apache.org/docs/latest/img/spark-logo-100x40px.png)
-
-Dean Wampler, Ph.D.
-[Typesafe](http://typesafe.com)
-[dean.wampler@typesafe.com](mailto:dean.wampler@typesafe.com)
-[@deanwampler](https://twitter.com/deanwampler)
-
-This workshop demonstrates how to write and run [Apache Spark](http://spark.apache.org) applications. You can run the examples and exercises locally on a workstation, on Hadoop (which could also be on your workstation), or both.
-
-If you are most interested in using Spark with Hadoop, the Hadoop vendors have preconfigured, virtual machine "sandboxes" with Spark included. See their websites for information.
-
-For more advanced Spark training and services from Typesafe, please visit [typesafe.com/reactive-big-data](http://www.typesafe.com/platform/reactive-big-data/spark).
-
 ## Starting Activator or SBT
 
 From now on, except where noted, the instructions apply for both your local workstation and Hadoop setup.
