@@ -1696,9 +1696,3 @@ To learn more, see the following resources:
 * See [Typesafe Reactive Big Data](http://typesafe.com/reactive-big-data) for more information about our products and services around Spark and Big Data.
 * See [Fast Data: Big Data Evolved](http://typesafe.com/fast-data) for more on my vision for stream-oriented architectures for Big Data.
 * See [Typesafe](http://typesafe.com) for information about the *Typesafe Reactive Platform*, training, and services.
-
-## Final Thoughts
-
-Thank you for working through this workshop. Feedback and pull requests are welcome.
-
-[Dean Wampler](mailto:dean.wampler@typesafe.com)
